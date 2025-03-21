@@ -1,4 +1,4 @@
-curso = "Curso de Python"
+curso = ["Curso de Python"]
 frutas = ["laranja", "limão", "uva"]
 saques = [1500, 100]
 
