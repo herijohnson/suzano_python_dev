@@ -5,7 +5,7 @@ def exibir_msg_2(nome):
     print(f"Seja bem vindo {nome}!")
 
 def exibir_msg_3(nome= "Anônimo"):
-        (f"Seja bem vindo {nome}!")
+    print(f"Seja bem vindo {nome}!")
 
 
 exibir_msg()
